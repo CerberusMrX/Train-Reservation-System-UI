@@ -27,8 +27,8 @@ Timers: For implementing the image slider feature.
 Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse).
 Build and run the application.
 
-You can run on linux
+  You can run on linux
 
-  javac TrainReservationSystem.java
-  java TrainReservationSystem
+   javac TrainReservationSystem.java
+   java TrainReservationSystem
    
